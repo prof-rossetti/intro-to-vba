@@ -1,17 +1,29 @@
-# Credits, Notes, and Reference
+# Acknowledgements
 
-Special thanks to Professor Robin Dillon-Merrill (<rld9@georgetown.edu>) for sharing resources from previous semesters, including lecture notes and example files. And to Georgetown MBA students for their feedback in developing and using these materials over many semesters.
+These materials are adapted from lecture notes while teaching a course in *Computer-based Decision Support Systems* at Georgetown University's McDonough School of Business over the [Fall 2017](https://github.com/prof-rossetti/georgetown-opim-557-201710) and [Spring 2018](https://github.com/prof-rossetti/georgetown-opim-557-201803) semesters.
 
-## Other Courses by Professor Rossetti
+Special thanks to Professor Robin Dillon-Merrill for sharing lecture notes and example files from previous semesters, and to all the Georgetown MBA students who reviewed these materials and provided feedback. :pray:
 
-  + [Programming in Python & Fundamentals of Software Development (Summer 2018)](https://github.com/prof-rossetti/nyu-info-2335-201805)
-  + [Computer-based Decision Support Systems (Fall 2017)](https://github.com/prof-rossetti/georgetown-opim-557-20-201710)
-  + [Programming in Python & Fundamentals of Software Development (Summer 2017)](https://github.com/prof-rossetti/nyu-info-2335-201706)
-  + [Internet Programming (Spring 2017)](https://github.com/prof-rossetti/southernct-csc-443-201701)
-  + [Database Design and Applications (Fall 2015)](https://github.com/prof-rossetti/gwu-istm-4121-201509)
-  + [Management Info Systems (Fall 2015)](https://github.com/prof-rossetti/gwu-badm-2301-201509)
+And for the following resources...
 
-## GitBook Resources
+## Resources
+
+Tools:
+
+  + [VB Indent](http://www.vbindent.com/)
+  + [VBA Language Snippets and Syntax Highlighting for Atom Text Editor](https://atom.io/packages/language-vba)
+  + [JSON to XML Converter](https://www.freeformatter.com/json-to-xml-converter.html)
+
+Data:
+
+  + [Monthly Retail Sales Data](https://github.com/prof-rossetti/monthly-retail-sales-data/)
+
+Images:
+
+  + [Pivot Cache Illustration](https://trumpexcel.com/wp-content/uploads/2015/11/Pivot-Cache-in-Pivot-Table-Flow.png)
+  + [Internet Maps](https://www.vox.com/a/internet-maps)
+
+Publishing on GitBook:
 
   + https://toolchain.gitbook.com/structure.html
   + https://toolchain.gitbook.com/pages.html
@@ -19,19 +31,3 @@ Special thanks to Professor Robin Dillon-Merrill (<rld9@georgetown.edu>) for sha
   + https://toolchain.gitbook.com/syntax/markdown.html#references
   + https://toolchain.gitbook.com/examples.html
   + https://github.com/GitbookIO/gitbook
-  +
-
-## Tools
-
-  + [VB Indent](http://www.vbindent.com/)
-  + [VBA Language Snippets and Syntax Highlighting for Atom Text Editor](https://atom.io/packages/language-vba)
-  + [JSON to XML Converter](https://www.freeformatter.com/json-to-xml-converter.html)
-
-## Data
-
-  + [Monthly Retail Sales Data](https://github.com/prof-rossetti/monthly-retail-sales-data/)
-
-## Images
-
-  + [Pivot Cache Illustration](https://trumpexcel.com/wp-content/uploads/2015/11/Pivot-Cache-in-Pivot-Table-Flow.png)
-  + [Internet Maps](https://www.vox.com/a/internet-maps)

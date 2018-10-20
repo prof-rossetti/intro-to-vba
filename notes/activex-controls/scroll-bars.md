@@ -2,11 +2,11 @@
 
 The [`ScrollBar` control](https://msdn.microsoft.com/en-us/VBA/Language-Reference-VBA/articles/scrollbar-control) represents a fluid scale which allows the user to increment or decrement an integer value.
 
+![a screenshot of a horizontally-aligned scroll-bar.](/img/notes/activex-controls/scroll-bar.png)
+
 ## Insertion
 
-"Developer" > "Insert" > "ActiveX Controls" > "Scroll Bar"
-
-![a screenshot of a horizontally-aligned scroll-bar.](/img/notes/activex-controls/scroll-bar.png)
+Click "Developer" > "Insert" > "ActiveX Controls" > "Scroll Bar".
 
 ## Properties
 

@@ -6,7 +6,7 @@ A [`CommandButton`](https://msdn.microsoft.com/en-us/VBA/Language-Reference-VBA/
 
 ## Insertion
 
-To insert a command button, click "Developer" > "Insert" > "ActiveX Controls" > "Command Button".
+Click "Developer" > "Insert" > "ActiveX Controls" > "Command Button".
 
 ## Properties
 

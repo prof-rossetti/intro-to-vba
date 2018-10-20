@@ -2,11 +2,11 @@
 
 The [`CheckBox` control](https://msdn.microsoft.com/en-us/VBA/Language-Reference-VBA/articles/checkbox-control) represents a checkable box belonging to a specified group from which zero or more may be selected at any given time.
 
+![a screenshot depicting two of four checked boxes](/img/notes/activex-controls/check-box.png)
+
 ## Insertion
 
-For each box: "Developer" > "Insert" > "ActiveX Controls" > "Check Box".
-
-![a screenshot depicting two of four checked boxes](/img/notes/activex-controls/check-box.png)
+For each box: click "Developer" > "Insert" > "ActiveX Controls" > "Check Box".
 
 ## Properties
 

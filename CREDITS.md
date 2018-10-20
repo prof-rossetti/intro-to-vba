@@ -1,14 +1,15 @@
 # Credits, Notes, and Reference
 
-Special thanks to Professor Robin Dillon-Merrill (<rld9@georgetown.edu>) for sharing resources from previous semesters, including lecture notes and example files.
+Special thanks to Professor Robin Dillon-Merrill (<rld9@georgetown.edu>) for sharing resources from previous semesters, including lecture notes and example files. And to Georgetown MBA students for their feedback in developing and using these materials.
 
-## Previous Courses by Professor Rossetti
+## Other Courses by Professor Rossetti
 
+  + [Programming in Python & Fundamentals of Software Development (Summer 2018)](https://github.com/prof-rossetti/nyu-info-2335-201805)
   + [Computer-based Decision Support Systems (Fall 2017)](https://github.com/prof-rossetti/georgetown-opim-557-20-201710)
-  + [Programming in Python & Fundamentals of Software Development (Summer 2017)](https://github.com/prof-rossetti/nyu-info-2335-70-201706/)
-  + [Internet Programming (Spring 2017)](https://github.com/prof-rossetti/southernct-csc-443-01-201701)
-  + [Database Design and Applications (Fall 2015)](https://github.com/prof-rossetti/gwu-istm-4121-10-201509)
-  + [Management Info Systems (Fall 2015)](https://github.com/prof-rossetti/gwu-badm-2301-11-201509)
+  + [Programming in Python & Fundamentals of Software Development (Summer 2017)](https://github.com/prof-rossetti/nyu-info-2335-201706)
+  + [Internet Programming (Spring 2017)](https://github.com/prof-rossetti/southernct-csc-443-201701)
+  + [Database Design and Applications (Fall 2015)](https://github.com/prof-rossetti/gwu-istm-4121-201509)
+  + [Management Info Systems (Fall 2015)](https://github.com/prof-rossetti/gwu-badm-2301-201509)
 
 ## Tools
 

@@ -12,13 +12,13 @@ The Internet is the most prevalent computer network in the world.
 
 The most popular Internet architecture is called **Client-Server**. The **Client** is a computer which makes a request for information, whereas the **Server** provides a response to fulfill the client's request.
 
-![some maps of the internet backbone](internet-backbone-2000.png)
+![some maps of the internet backbone](/img/notes/information-systems/internet-backbone-2000.png)
 
 ### Internet Protocols
 
 Reference:
 
-  + [Mozila Reference on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+  + [Mozilla Reference on HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
   + [HTTP Documentation](http://httpwg.org/specs/)
 
 The Internet primarily relies on the **Hyper Text Transfer Protocol (HTTP)**, which specifies rules and standards for sending and receiving information.

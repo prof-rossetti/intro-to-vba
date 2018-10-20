@@ -1,20 +1,10 @@
 # Information Systems
 
-Discussion Topics:
-
-  + What is an Information System?
-  + What are the main components of a Computer-based Information System?
-  + How do Information Systems provide value to businesses and organizations?
-  + What are some examples of Information Systems?
-    + Examples from your personal vs professional life?
-    + Tech vs non-tech examples?
-    + Commercially successful examples? :moneybag: :moneybag: :moneybag:
-
 ## Definition
 
 An **Information System** processes one or more **information inputs** into one or more **information outputs** for a specific purpose.
 
-![A "data flow diagram" depicting a system with inputs flowing in and outputs flowing out.](example-data-flow-diagram.png)
+![A "data flow diagram" depicting a system with inputs flowing in and outputs flowing out.](/img/notes/information-systems/example-data-flow-diagram.png)
 
 ## Purpose
 
@@ -48,8 +38,13 @@ system type | general functions |  specific example(s)
 
 ## Components
 
-Information systems may or may not leverage technology. Examples of non-tech information systems include: a doctor's paper-based patient records system, a deli's paper-based ordering system, and a [tin-can telephone](https://thumbs.dreamstime.com/z/tin-can-telephones-968914.jpg) system.
- A computer-based information system uses
+Information systems may or may not leverage technology.
+
+Examples of non-tech information systems include: a doctor's paper-based patient records system, a deli's paper-based ordering system, and a "tin-can telephone" system.
+
+![a "tin-can telephone"](/img/notes/information-systems/tin-can-telephone.jpg)
+
+A computer-based information system uses
  a related group of technology components working together
  to process information inputs into information outputs
  for a specific purpose. Components of a computer-based information system generally include:

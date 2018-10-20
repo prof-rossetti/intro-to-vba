@@ -1,4 +1,5 @@
-# VBA Language Overview
+
+# Visual Basic for Applications (VBA)
 
 Discussion Topics:
 
@@ -7,3 +8,11 @@ Discussion Topics:
   + What are the strengths and weaknesses of VBA?
   + When is VBA the right tool for the job?
   + When might VBA not be the right tool for the job?
+
+## VBA Language Overview
+
+TODO: table of contents
+
+  + datatypes
+  + loops
+  + etc.

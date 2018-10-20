@@ -1,6 +1,4 @@
-# Visual Basic Programming
-
-## Loops
+# Loops
 
 Reference:
 
@@ -20,7 +18,7 @@ In VBA, there are four kinds of loops:
 
 To programmatically exit from a `Do` loop, use the statement `Exit Do`. To programmatically exit from a `For` loop, use the statement `Exit For`. To manually exit a loop, for example if you get stuck in an infinite loop, press and hold the "Escape" key to exit the program. If that doesn't work, try pressing the "Ctrl" + "Break" keys. If that doesn't work, try "Ctrl" + "Alt" + "Delete" to reveal the task manager and force quit the application.
 
-### `Do While ... Loop` Loops
+## `Do While ... Loop` Loops
 
 This kind of loop will continue **as long as** a certain logical condition is met. In other words, it will stop when the condition is no longer being met.
 
@@ -34,7 +32,7 @@ Do While Counter <= 5
 Loop
 ```
 
-### `Do Until ... Loop` Loops
+## `Do Until ... Loop` Loops
 
 This kind of loop will continue **until** a certain logical condition is met. In other words, it will stop when the condition is met.
 
@@ -48,7 +46,7 @@ Do Until Counter = 5
 Loop
 ```
 
-### `For ... Next` Loops
+## `For ... Next` Loops
 
 This kind of loop will repeat a statement a specific amount of times. The counter incrementing mechanism is built-in to the loop's syntax.
 
@@ -60,9 +58,9 @@ For Counter = 1 To 5 ' specify the number of times this loop will repeat
 Next Counter ' increment the Counter's value and execute the next iteration
 ```
 
-### `For Each ... Next` Loops
+## `For Each ... Next` Loops
 
-This kind of loop will iterate over each object in a collection of objects. Examples of collections include a [range](/notes/excel-objects/ranges/notes.md) of cell objects, as well as an [array](/notes/visual-basic/datatypes/arrays.md) of items.
+This kind of loop will iterate over each object in a collection of objects. Examples of collections include a [range](/notes/excel-objects/ranges.md) of cell objects, as well as an [array](/notes/visual-basic/datatypes/arrays.md) of items.
 
 ```vb
 Dim MyCell As Range

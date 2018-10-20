@@ -1,25 +1,23 @@
-# Visual Basic Programming
-
-## Datatypes
+# Datatypes
 
 A computer program often allocates memory to store information for future reference. Some data is more "expensive" to store than others, so declaring [datatypes](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/data-types) helps the program allocate memory in an efficient way.
 
-Also, different datatypes each have their own unique methods and proprties. For example, the things you can do with numeric data are not the same things you can do with text.
+Also, different datatypes each have their own unique methods and properties. For example, the things you can do with numeric data are not the same things you can do with text.
 
 Common basic datatypes include:
 
 name | description
 --- | ---
 `Boolean` | A binary value of true or false.
-[`String`](strings.md) | Textual information.
+[`String`](datatypes/strings.md) | Textual information.
 `Integer` | A positive whole number.
 `Double` | A decimal number.
 `Date` | A calendar date.
-[`Array`](arrays.md) | An ordered collection of other items.
+[`Array`](datatypes/arrays.md) | An ordered collection of other items.
 
-In addition to these common programming datatypes, you can also think about each [Excel Object](/notes/excel-objects) and [ActiveX Control](/notes/activex-controls/notes.md) as its own datatype, each with its own custom properties and methods.
+In addition to these common programming datatypes, you can also think about each [Excel Object](/notes/excel-objects) and [ActiveX Control](/notes/activex-controls) as its own datatype, each with its own custom properties and methods.
 
-### Checking a Variable's Type
+## Checking a Variable's Type
 
 Visual Basic supports a number of built-in functions to detect the datatype of any variable. These functions are especially helpful when validating user inputs.
 
@@ -70,7 +68,7 @@ IsNumeric("Hello") ' --> False
 
 <hr>
 
-### Static Typing
+## Static Typing
 
 One practical affect of specifying datatypes during variable declaration (a.k.a. "static-typing") is that VBA will try to convert an assigned value to the declared datatype if possible. This may be helpful in some cases, but detrimental in other cases.
 
@@ -89,9 +87,9 @@ Private Sub CommandButton1_Click()
 End Sub
 ```
 
-![a message box showing the raw value as 12.345 (Double), the value when assigned to an integer variable as 12.345 (Integer), and the value when assigned to a variable with non-declared dataype is 12.345 (Double)](datatype-checking.png)
+![a message box showing the raw value as 12.345 (Double), the value when assigned to an integer variable as 12.345 (Integer), and the value when assigned to a variable with non-declared dataype is 12.345 (Double)](/img/notes/visual-basic/datatype-checking.png)
 
-### Datatypes of Numeric Cell Values
+## Datatypes of Numeric Cell Values
 
 By default, any numeric value entered into a cell is automatically treated by VBA as being a `Double` datatype, even if the value looks like an `Integer` datatype (e.g. the number `6`). This behavior is not intuitive, and can make it more difficult to use the aforementioned datatype-checking functions to distinguish between `Double` and `Integer` cell values while at the same time preventing the values from being converted during variable assignment.
 
@@ -110,11 +108,11 @@ Private Sub CommandButton2_Click()
 End Sub
 ```
 
-![a screenshot of a cell value of 6 and a message box that reads "The cell value is an integer" ](cell-value-integer-detection-affirmative.png)
+![a screenshot of a cell value of 6 and a message box that reads "The cell value is an integer" ](/img/notes/visual-basic/cell-value-integer-detection-affirmative.png)
 
-![a screenshot of a cell value of 8.8 and a message box that reads "The cell value is not an integer"](cell-value-integer-detection-negative.png)
+![a screenshot of a cell value of 8.8 and a message box that reads "The cell value is not an integer"](/img/notes/visual-basic/cell-value-integer-detection-negative.png)
 
-### Datatypes of `InputBox` Values
+## Datatypes of `InputBox` Values
 
 When you use an `InputBox` to capture a user input, beware the default datatype of the resulting value will be a `String`. If you would like to change the default datatype to be numeric, pass a `Type` parameter value of `1` and the resulting value will instead be a `Double`:
 

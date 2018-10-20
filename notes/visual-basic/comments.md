@@ -1,6 +1,4 @@
-# Visual Basic Programming 
-
-## Comments
+# Comments
 
 Comments prevent certain code from being executed. This makes comments useful for debugging purposes.
 
@@ -16,9 +14,9 @@ Use a single quote to denote a single-line comment in VBA:
 MsgBox("Hello") ' this is also a comment
 ```
 
-### Multi-line Comments
+## Multi-line Comments
 
-To add or remove multi-line comments, highlight all the lines you want to comment-out, then click the "Comment Block" or "Uncomment Block" menu buttons. 
+To add or remove multi-line comments, highlight all the lines you want to comment-out, then click the "Comment Block" or "Uncomment Block" menu buttons.
 
 ```vb
 'Private Sub MySub()
@@ -28,4 +26,4 @@ To add or remove multi-line comments, highlight all the lines you want to commen
 
 [To reveal these buttons](https://stackoverflow.com/questions/24001501/does-vba-contain-a-comment-block-syntax) open the Visual Basic Editor (VBE) and click "View" > "Toolbars" > "Edit".
 
-![A screenshot of the user clicking "View" > "Toolbars" > "Edit" in the VBE.](vbe-toolbars-edit.png)
+![A screenshot of the user clicking "View" > "Toolbars" > "Edit" in the VBE.](/img/notes/visual-basic/vbe-toolbars-edit.png)

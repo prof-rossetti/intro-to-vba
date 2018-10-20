@@ -1,21 +1,19 @@
-# Visual Basic Programming
+# Conditionals
 
-## Conditionals
-
-### If Statements
+## If Statements
 
 The [`If` Statement](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/ifthenelse-statement) allows the program to implement conditional logic.
 
 All `If` statements contain an initial `If` clause and generally end with the keywords `End If`. Everything inbetween is considered to be inside the scope of that `If` statement:
 
 ```vb
-If 5 = 5 Then 
+If 5 = 5 Then
   MsgBox("Hello") ' this statement will be executed, since the condition is true
 End If
 ```
 
 ```vb
-If 5 = 4 Then 
+If 5 = 4 Then
   MsgBox("Hello") ' this statement will not be executed, since the condition is false
 End If
 ```

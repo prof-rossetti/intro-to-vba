@@ -1,8 +1,4 @@
-# Visual Basic Programming
-
-## Datatypes
-
-### Strings
+# Strings
 
 The [String](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/string-data-type) datatype is used to represent words or text. A string must begin with an opening quotation mark (`"`) and end with a closing quotation mark (`"`) (e.g. `"Hello World"`).
 
@@ -12,12 +8,12 @@ MyMessage = "Hello World"
 MsgBox(MyMessage)
 ```
 
-#### String Operations
+## String Operations
 
 Just like you can perform arithmetic operations on numbers, you can perform designated [string operations](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/functions/string-functions)
  on strings.
 
-##### String Concatenation
+### Concatenation
 
 The most popular string operation is "concatenation", which assembles multiple strings into a single string. The operator to perform string concatenation is an ampersand (`&`). When concatenating strings with other strings, or even with variables, make sure to include space characters in the proper places or else your strings will run together without a space. For example, **all the following approaches are equivalent**:
 
@@ -46,7 +42,7 @@ MyMessage = FirstString & " " & SecondString ' notice the separate space charact
 MsgBox(MyMessage)
 ```
 
-##### New Lines
+### New Lines
 
 Use the `vbNewLine` keyword to insert a line break in a concatenated string:
 
@@ -58,7 +54,7 @@ MsgBox(MyMessage)
 
 > Note: a new line character can be represented in VBA by any of the following: `vbLf`, `vbCrLf`, `vbCr`, and `vbNewLine`.
 
-##### String Case
+### Capitalization
 
 Use the `UCase()`, `LCase()` and `WorksheetFunction.Proper()` functions to manipulate the case of any string:
 
@@ -68,7 +64,7 @@ MyMessage = "HeLlo WoRlD"
 MsgBox(MyMessage & " " & UCase(MyMessage) & " " & LCase(MyMessage) & " " & WorksheetFunction.Proper(MyMessage))
 ```
 
-##### String Formatting
+### Formatting
 
 Use the built-in [`Format()` function](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/format-function-visual-basic-for-applications) to convert numbers into strings using a specified template. Two common templates are `"Currency"` and `"Percent"`, however you can also create your own custom formats using a mix of special characters:
 
@@ -81,7 +77,7 @@ Format(Price, "Percent") '--> "4512.34%"
 Format(Price, "##,##0.0 tons") '--> "45.1 tons"
 ```
 
-##### Substring Detection
+### Substring Detection
 
 Use the `InStr()` function to detect whether or not a string includes a specified substring. The first parameter represents the string to be searched, and the second parameter represents the substring to search for.
 
@@ -96,13 +92,9 @@ InStr(MyStr, "World") ' --> 7
 InStr(MyStr, "Goodbye") ' --> 0
 ```
 
-<hr>
+### Splitting
 
-> Below this line there are advanced topics which you can feel free to come back to later, especially once you have studied arrays...
-
-<hr>
-
-##### String Splitting
+> SUGGESTION: Revisit this topic once you have studied [arrays](arrays.md).
 
 Split a string into component parts by using the `Split()` function and passing parameters corresponding to the string to be split, followed by the delimiter:
 

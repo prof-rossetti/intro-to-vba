@@ -1,8 +1,6 @@
-# Visual Basic Programming
+# Variables
 
-## Variables
-
-### Declaring Variables
+## Declaring
 
 Visual Basic has traditionally been a "statically-typed" language, which means it requires the developer to declare which [type of data](/notes/visual-basic/datatypes/notes.md) a variable will hold. In the current version it is not always necessary to declare variables to produce desired functionality. However, declaring variables is a best practice, at least for performance reasons.
 
@@ -24,7 +22,7 @@ Dim MySheet As Worksheet
 Dim MyCell As Range
 ```
 
-### Assigning Values to Variables
+## Assigning Values
 
 Use an equality operator (`=`) to assign some value on the right side of the `=` to a given variable on the left side of the `=`. For example:
 
@@ -46,7 +44,7 @@ Set MySheet = Worksheets("Sheet1")
 Set MyCell = Range("C5")
 ```
 
-### Referencing Variables
+## Referencing Values
 
 After a variable is declared and assigned, any subsequent references to the variable name will yield the variable's value:
 

@@ -6,7 +6,7 @@ Follow this official [Getting Started with with VBA in Office](https://msdn.micr
 
 Take a moment to get familiar with the Visual Basic Editor (VBE) window, including the Project pane, and the various objects and events available via dropdown menus.
 
-![A screenshot of the VBE](vbe-window-events.png)
+![A screenshot of the VBE](/img/notes/visual-basic/vbe-window-events.png)
 
 You may want to take this time to explore the various toolbars under "View" > "Toolbars".
 

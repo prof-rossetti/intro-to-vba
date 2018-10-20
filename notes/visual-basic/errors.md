@@ -14,7 +14,7 @@ Private Sub CommandButton7_Click()
 End Sub
 ```
 
-![a screenshot of a broken program, with the native VBA error messaging exposed to the user](error-division-by-zero.png)
+![a screenshot of a broken program, with the native VBA error messaging exposed to the user](/img/notes/visual-basic/error-division-by-zero.png)
 
 Usually, the error messages themselves are not always this clear. Some errors are obscure and may leave the user puzzled. This is not the best user experience. Plus, we don't want to allow the user to enter into "Debug" mode to look at our code.
 
@@ -40,6 +40,6 @@ MyErrorHandler: ' again, MyErrorHandler represents some name you choose, and it 
 End Sub
 ```
 
-![a message box displaying a friendly message](error-handled-division-by-zero.png)
+![a message box displaying a friendly message](/img/notes/visual-basic/error-handled-division-by-zero.png)
 
-If you would like to allow the user to try again and attempt to resume the program where it left off, you might explore using a [`Resume` statement](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/resume-statement). 
+If you would like to allow the user to try again and attempt to resume the program where it left off, you might explore using a [`Resume` statement](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/resume-statement).

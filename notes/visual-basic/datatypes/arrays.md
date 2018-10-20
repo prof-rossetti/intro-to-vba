@@ -1,8 +1,4 @@
-# Visual Basic Programming
-
-## Datatypes
-
-### Arrays
+# Arrays
 
 > "A set of sequentially indexed elements having the same intrinsic data type. Each element of an array has a unique identifying index number. Changes made to one element of an array don't affect the other elements." - [glossary of VBA terms](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/vbe-glossary)
 
@@ -10,7 +6,7 @@ An array represents an ordered list of zero or more items of the same datatype.
 
 Individual array elements can be accessed by their position, or "index" value. Array indices are zero-based by default, meaning the index of the first element in an array is 0. However, arrays can be declared using different index values.
 
-#### Declaration
+## Declaration
 
 [Declare a new array variable](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/declaring-arrays), optionally specifying the expected size and datatype of items it will contain:
 
@@ -42,7 +38,7 @@ UBound(MyList) - LBound(MyList) + 1 ' --> (5 - 1 + 1) --> 5 items
 
 See also: [using arrays](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/using-arrays).
 
-#### Iteration
+## Iteration
 
 Once you have studied loops, you can use a `For Each` loop to iterate through each item in an array:
 

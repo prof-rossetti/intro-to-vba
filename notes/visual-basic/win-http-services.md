@@ -1,6 +1,4 @@
-# VBA Language Overview
-
-### Microsoft WinHTTP Services
+# Microsoft WinHTTP Services
 
 > Before you read this document, please first read about [Computer Networks](/notes/information-systems/computer-networks.md) and [APIs](/notes/information-systems/apis.md).
 
@@ -12,7 +10,7 @@ Reference Documentation:
 To use VBA to issue HTTP requests, you must first enable use of Microsoft WinHTTP Services from the VBE menu:
 "Tools" > "References" > "Microsoft WinHTTP Services".
 
-![a screenshot depicting the selection of "Microsoft Win HTTP Services Version 5.1" in the References Menu](enabling-win-http-services.png)
+![a screenshot depicting the selection of "Microsoft Win HTTP Services Version 5.1" in the References Menu](/img/notes/visual-basic/enabling-win-http-services.png)
 
 Then adapt the following example code to meet your specific needs:
 
@@ -37,4 +35,4 @@ MsgBox ("RESPONSE" & vbNewLine _
 )
 ```
 
-![a screenshot of a message box containing the response status (200, OK) and the response text (a CSV string)](example-response.png)
+![a screenshot of a message box containing the response status (200, OK) and the response text (a CSV string)](/img/notes/visual-basic/example-response.png)

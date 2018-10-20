@@ -6,6 +6,6 @@ This book helps beginners create applications in MS Excel using the Visual Basic
 
 ## [Table of Contents](/SUMMARY.md)
 
-## [Acknowlegements](/CREDITS.md)
+## [Acknowledgements](/CREDITS.md)
 
-## [Licence](/LICENSE.md)
+## [License](/LICENSE.md)

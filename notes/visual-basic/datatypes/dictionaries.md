@@ -7,7 +7,7 @@ A [`Dictionary`](https://msdn.microsoft.com/en-us/vba/language-reference-vba/art
 To use the `Dictionary` datatype in VBA, you may need to enable use of the Microsoft Scripting Runtime from the VBE menu:
 "Tools" > "References" > "Microsoft Scripting Runtime".
 
-## Initialization
+## Declaration
 
 Create a new dictionary and set its attributes via the `Add` method.
 

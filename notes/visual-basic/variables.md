@@ -1,6 +1,6 @@
 # Variables
 
-## Declaring
+## Declaration
 
 Visual Basic has traditionally been a "statically-typed" language, which means it requires the developer to declare which [type of data](datatypes.md) a variable will hold. In the current version it is not always necessary to declare variables to produce desired functionality. However, declaring variables is a best practice, at least for performance reasons.
 

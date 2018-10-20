@@ -6,7 +6,7 @@
   1. [Getting Started](getting-started.md)
   2. [Macros](macros.md)
   3. [Comments](comments.md)
-  4. [Message Boxes](messsage-boxes.md)
+  4. [Message Boxes](message-boxes.md)
 
 ## Module II
 

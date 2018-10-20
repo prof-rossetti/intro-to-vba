@@ -1,18 +1,16 @@
-# ActiveX Controls
-
-## Toggle Buttons
+# Toggle Buttons
 
 The [`ToggleButton` control](https://msdn.microsoft.com/en-us/VBA/Language-Reference-VBA/articles/togglebutton-control) represents a button which maintains either a pressed or unpressed state (like a light switch).
 
-### Insertion
+## Insertion
 
 "Developer" > "Insert" > "ActiveX Controls" > "Toggle Button"
 
-![a screenshot of a toggle button in the "off" state.](toggle-button-off.png)
+![a screenshot of a toggle button in the "off" state.](/img/notes/activex-controls/toggle-button-off.png)
 
-![a screenshot of a toggle button in the "on" state.](toggle-button-on.png)
+![a screenshot of a toggle button in the "on" state.](/img/notes/activex-controls/toggle-button-on.png)
 
-### Properties
+## Properties
 
 name | description
 --- | ---
@@ -20,7 +18,7 @@ name | description
 `Value` | The current state of the button (i.e. `True` if pressed, otherwise `False`).
 `LinkedCell` | The address of a specified cell which is bidirectionally associated with control's value.
 
-### Events
+## Events
 
 name | description
 --- | ---

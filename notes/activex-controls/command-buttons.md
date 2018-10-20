@@ -1,22 +1,20 @@
-# ActiveX Controls
-
-## Command Buttons
+# Command Buttons
 
 A [`CommandButton`](https://msdn.microsoft.com/en-us/VBA/Language-Reference-VBA/articles/commandbutton-control) control represents a clickable button.
 
-![a screenshot of an excel worksheet with two buttons which read "Get cell value" and "Set cell value", respectively.](command-button.png)
+![a screenshot of an excel worksheet with two buttons which read "Get cell value" and "Set cell value", respectively.](/img/notes/activex-controls/command-button.png)
 
-### Insertion
+## Insertion
 
 To insert a command button, click "Developer" > "Insert" > "ActiveX Controls" > "Command Button".
 
-### Properties
+## Properties
 
 name | description
 --- | ---
 `Caption` | Human-friendly text to instruct the user.
 
-### Events
+## Events
 
 name | description
 --- | ---

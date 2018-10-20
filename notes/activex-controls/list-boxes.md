@@ -1,16 +1,14 @@
-# ActiveX Controls
-
-## List Boxes
+# List Boxes
 
 The [`ListBox` control](https://msdn.microsoft.com/en-us/VBA/Language-Reference-VBA/articles/listbox-control) represents a picker menu which allows the user to choose one option from a provided list.
 
-### Insertion
+## Insertion
 
 "Developer" > "Insert" > "ActiveX Controls" > "List Box"
 
-![a screenshot of a user selecting an option from a list-style menu](list-box.png)
+![a screenshot of a user selecting an option from a list-style menu](/img/notes/activex-controls/list-box.png)
 
-### Properties
+## Properties
 
 name | description
 --- | ---
@@ -18,7 +16,7 @@ name | description
 `Value` | The name of the currently-selected list item.
 `LinkedCell` | The address of a specified cell which is bidirectionally associated with control's value.
 
-### Events
+## Events
 
 name | description
 --- | ---

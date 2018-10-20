@@ -1,16 +1,14 @@
-# ActiveX Controls
-
-## Check Boxes
+# Check Boxes
 
 The [`CheckBox` control](https://msdn.microsoft.com/en-us/VBA/Language-Reference-VBA/articles/checkbox-control) represents a checkable box belonging to a specified group from which zero or more may be selected at any given time.
 
-### Insertion
+## Insertion
 
 For each box: "Developer" > "Insert" > "ActiveX Controls" > "Check Box".
 
-![a screenshot depicting two of four checked boxes](check-box.png)
+![a screenshot depicting two of four checked boxes](/img/notes/activex-controls/check-box.png)
 
-### Properties
+## Properties
 
 name | description
 --- | ---
@@ -19,7 +17,7 @@ name | description
 `Value` | The current state of the control (i.e. `True` if checked, otherwise `False`).
 `LinkedCell` | The address of a specified cell which is bidirectionally associated with control's value.
 
-### Events
+## Events
 
 name | description
 --- | ---

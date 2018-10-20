@@ -1,16 +1,14 @@
-# ActiveX Controls
-
-## Scroll Bars
+# Scroll Bars
 
 The [`ScrollBar` control](https://msdn.microsoft.com/en-us/VBA/Language-Reference-VBA/articles/scrollbar-control) represents a fluid scale which allows the user to increment or decrement an integer value.
 
-### Insertion
+## Insertion
 
 "Developer" > "Insert" > "ActiveX Controls" > "Scroll Bar"
 
-![a screenshot of a horizontally-aligned scroll-bar.](scroll-bar.png)
+![a screenshot of a horizontally-aligned scroll-bar.](/img/notes/activex-controls/scroll-bar.png)
 
-### Properties
+## Properties
 
 name | description
 --- | ---
@@ -22,7 +20,7 @@ name | description
 `Value` | The control's current integer value.
 `LinkedCell` | The address of a specified cell which is bidirectionally associated with control's value.
 
-### Events
+## Events
 
 name | description
 --- | ---

@@ -1,16 +1,14 @@
-# ActiveX Controls
-
-## Combo Boxes
+# Combo Boxes
 
 The [`ComboBox` control](https://msdn.microsoft.com/en-us/VBA/Language-Reference-VBA/articles/combobox-control) represents a drop-down menu which allows the user to choose one option from a provided list.
 
-### Insertion
+## Insertion
 
 "Developer" > "Insert" > "ActiveX Controls" > "Combo Box"
 
-![a screenshot of a user selecting an option from a drop-down menu](combo-box-1.png)
+![a screenshot of a user selecting an option from a drop-down menu](/img/notes/activex-controls/combo-box-1.png)
 
-### Properties
+## Properties
 
 name | description
 --- | ---
@@ -18,7 +16,7 @@ name | description
 `Value` | The name of the currently-selected list item.
 `LinkedCell` | The address of a specified cell which is bidirectionally associated with control's value.
 
-### Events
+## Events
 
 name | description
 --- | ---

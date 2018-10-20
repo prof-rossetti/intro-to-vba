@@ -1,8 +1,6 @@
 # ActiveX Controls
 
-**ActiveX Controls** are intuitive user interface elements whose properties can be programmatically accessed and manipulated by VBA code.
-
-Some popular ActiveX Controls inside MS Excel include:
+**ActiveX Controls** are intuitive user interface elements whose properties can be programmatically accessed and manipulated by VBA code. Some popular ActiveX Controls inside MS Excel include:
 
 name | description
 --- | ---

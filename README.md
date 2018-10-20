@@ -1,11 +1,11 @@
-This book provides all the information necessary for beginners to create business software applications in MS Excel using the Visual Basic for Applications (VBA) programming language.
+# Intro to VBA
 
-DEMO GIF
+This book helps beginners create applications in MS Excel using the Visual Basic for Applications (VBA) programming language.
 
+![screenshot of information outputs](/img/display-outputs.png)
 
+## [Table of Contents](/SUMMARY.md)
 
-## [License](/LICENSE.md)
+## [Acknowlegements](/CREDITS.md)
 
-Copyright (c) 2018 MJ Rossetti (<prof.mj.rossetti@gmail.com>, <mjr300@georgetown.edu>).
-
-This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License <http://creativecommons.org/licenses/by-nc/4.0/>.
+## [Licence](/LICENSE.md)

@@ -13,10 +13,13 @@ Special thanks to Professor Robin Dillon-Merrill (<rld9@georgetown.edu>) for sha
 
 ## GitBook Resources
 
+  + https://toolchain.gitbook.com/structure.html
+  + https://toolchain.gitbook.com/pages.html
   + https://toolchain.gitbook.com/config.html
   + https://toolchain.gitbook.com/syntax/markdown.html#references
   + https://toolchain.gitbook.com/examples.html
   + https://github.com/GitbookIO/gitbook
+  +
 
 ## Tools
 

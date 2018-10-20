@@ -1,15 +1,8 @@
-# Intro to VBA
-
 This book provides all the information necessary for beginners to create business software applications in MS Excel using the Visual Basic for Applications (VBA) programming language.
 
-## Chapters
+DEMO GIF
 
-  1. Foreward
-  2. [Information Systems](/notes/information-systems/notes.md)
-  3. [ActiveX Controls](/notes/activex-controls/notes.md)
-  4. [Excel Objects](/notes/excel-objects)
-  5. [VBA Programming](/notes/visual-basic)
-  5. Next Steps
+
 
 ## [License](/LICENSE.md)
 

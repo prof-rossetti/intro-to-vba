@@ -2,9 +2,12 @@
 
 ## Definition
 
-An **Information System** processes one or more **information inputs** into one or more **information outputs** for a specific purpose.
+An **Information System** processes one or more **Information Inputs** into one or more **Information Outputs**, for a specific purpose.
 
-![A "data flow diagram" depicting a system with inputs flowing in and outputs flowing out.](/img/notes/information-systems/example-data-flow-diagram.png)
+<table class="image">
+  <caption align="bottom">Figure 1: example information inputs and outputs</caption>
+  <tr><td><img src="../../img/notes/information-systems/example-data-flow-diagram.png" alt="My alt text"/></td></tr>
+</table>
 
 ## Purpose
 
@@ -42,7 +45,10 @@ Information systems may or may not leverage technology.
 
 Examples of non-tech information systems include: a doctor's paper-based patient records system, a deli's paper-based ordering system, and a "tin-can telephone" system.
 
-![a "tin-can telephone"](/img/notes/information-systems/tin-can-telephone.jpg)
+<table class="image">
+  <caption align="bottom">Figure 2: a "tin-can telephone"</caption>
+  <tr><td><img src="../../img/notes/information-systems/tin-can-telephone.jpg" alt="My alt text"/></td></tr>
+</table>
 
 A computer-based information system uses
  a related group of technology components working together

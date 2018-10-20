@@ -1,6 +1,6 @@
 # Credits, Notes, and Reference
 
-Special thanks to Professor Robin Dillon-Merrill (<rld9@georgetown.edu>) for sharing resources from previous semesters, including lecture notes and example files. And to Georgetown MBA students for their feedback in developing and using these materials.
+Special thanks to Professor Robin Dillon-Merrill (<rld9@georgetown.edu>) for sharing resources from previous semesters, including lecture notes and example files. And to Georgetown MBA students for their feedback in developing and using these materials over many semesters.
 
 ## Other Courses by Professor Rossetti
 
@@ -10,6 +10,12 @@ Special thanks to Professor Robin Dillon-Merrill (<rld9@georgetown.edu>) for sha
   + [Internet Programming (Spring 2017)](https://github.com/prof-rossetti/southernct-csc-443-201701)
   + [Database Design and Applications (Fall 2015)](https://github.com/prof-rossetti/gwu-istm-4121-201509)
   + [Management Info Systems (Fall 2015)](https://github.com/prof-rossetti/gwu-badm-2301-201509)
+
+## GitBook Resources
+
+  + https://toolchain.gitbook.com/config.html
+  + https://toolchain.gitbook.com/syntax/markdown.html#references
+  + https://toolchain.gitbook.com/examples.html
 
 ## Tools
 

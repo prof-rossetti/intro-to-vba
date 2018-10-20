@@ -2,7 +2,7 @@
 
 In Visual Basic, a [Sub-procedure](https://docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/language-features/procedures/sub-procedures) defines a subset of application logic that will be executed when the procedure is invoked.
 
-Whereas the responsibility of a [function](/notes/visual-basic/functions/notes.md) is to return some value, the responsibility of a sub-procedure is to simply "perform a task".
+Whereas the responsibility of a [function](functions.md) is to return some value, the responsibility of a sub-procedure is to simply "perform a task".
 
 ## Defining
 

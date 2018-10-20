@@ -12,7 +12,7 @@ Usually when you start writing VBA code, you're writing in a file which correspo
 
 To enable a procedure to be accessed by other sheets, move it into a module and change its access level from `Private` to a `Public`.
 
-## Creating Modules
+## Creating
 
 In the Visual Basic Editor window, the Project Explorer pane is separated into sub-folders, including "Microsoft Excel Objects" and "Modules". The "Microsoft Excel Objects" sub-folder usually contains one or more files which each correspond with a worksheet or workbook.
 
@@ -20,11 +20,13 @@ To create a new Module, from the Visual Basic Editor find "Modules" in the Proje
 
 ![a screenshot of the user pausing a mouse over the option to insert a new module](/img/notes/visual-basic/inserting-a-new-module.png)
 
+## Renaming
+
 To optionally rename a module, highlight it from the Modules folder and press the "F4" key to reveal its properties. Then change the "Name" property as desired.
 
 ![a screenshot of the user renaming a module](/img/notes/visual-basic/renaming-a-module.png)
 
-## Module Example
+## Example Modularized Architecture
 
 Code in `Module1`:
 

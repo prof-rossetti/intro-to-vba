@@ -4,7 +4,7 @@ In Visual Basic, a [Sub-procedure](https://docs.microsoft.com/en-us/dotnet/visua
 
 Whereas the responsibility of a [function](functions.md) is to return some value, the responsibility of a sub-procedure is to simply "perform a task".
 
-## Defining
+## Declaration
 
 ```vb
 Private Sub DoStuff()
@@ -24,7 +24,7 @@ To programmatically exit from a sub-procedure, use the statement `Exit Sub`.
 
 Note the trailing parentheses in the sub-procedure's name. They not only visually indicate this statement is a procedure, but they also serve as a space to pass parameters (see below).
 
-### Defining with Parameters
+### Declaration with Parameters
 
 When necessary and appropriate, specify one or more arguments (a.k.a. "parameters"), inside the parentheses part of the sub-procedure definition. The syntax for defining parameters is similar to the syntax for declaring variables, except a different keyword is used (either `ByVal` or `ByRef`). Use `ByVal` in most cases, but use `ByRef` if you need changes to the parameter to remain in memory after the function has finished execution.
 
@@ -36,7 +36,7 @@ End Sub
 
 These defined parameters represent variable values that are expected to be passed to the sub-procedure when it is invoked.
 
-## Invoking
+## Invocation
 
 The code inside a sub-procedure won't execute until/unless invoked. Sub-procedures are generally invoked when the user triggers an event (like a button click event), or when the user "runs" the program.
 

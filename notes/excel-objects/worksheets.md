@@ -34,7 +34,7 @@ Worksheets.Add
 
 #### Activating Worksheets
 
-To switch a user's active view to a given worksheet: 
+To switch a user's active view to a given worksheet:
 
 ```vb
 Worksheets("Sheet3").Activate

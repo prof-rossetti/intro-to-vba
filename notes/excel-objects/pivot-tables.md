@@ -26,7 +26,7 @@ Next MyPivot
 
 Sometimes you may need to programmatically update source data underlying a Pivot Table. A special object called the [`PivotCache`](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/pivotcache-object-excel) represents this concept.
 
-![an illustrating depicting a pivot table depends on a pivot cache, which depends on a raw data source](pivot-cache-illustration.png)
+![an illustrating depicting a pivot table depends on a pivot cache, which depends on a raw data source](/img/notes/excel-objects/pivot-cache-illustration.png)
 
 To update the Pivot Cache for a given Pivot Table, create a new Pivot Cache using `PivotCaches.Create()`, then pass that cache object into the Pivot Table's [`ChangePivotCache()` method](https://msdn.microsoft.com/en-us/vba/excel-vba/articles/pivottable-changepivotcache-method-excel):
 

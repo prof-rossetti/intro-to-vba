@@ -8,4 +8,4 @@ MyName = InputBox("Please input your name: ")
 MsgBox(MyName)
 ```
 
-See also [Datatypes of `InputBox` Values](/notes/visual-basic/datatypes/notes.md#datatypes-of-inputbox-values).
+See also: [Datatypes of `InputBox` Values](datatypes.md#datatypes-of-inputbox-values).

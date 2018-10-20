@@ -1,7 +1,5 @@
 # Information Systems
 
-## Definition
-
 An **Information System** processes one or more **information inputs** into one or more **information outputs** for a specific purpose.
 
 ![A "data flow diagram" depicting a system with inputs flowing in and outputs flowing out.](/img/notes/information-systems/example-data-flow-diagram.png)

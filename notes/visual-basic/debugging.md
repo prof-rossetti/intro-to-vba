@@ -4,15 +4,15 @@ When writing code, it is normal to make mistakes. Some mistakes are caused by si
 
 These mistakes in software, or differences between intended and actual functionality, are known as **bugs**. And the process of identifying and fixing them is called **debugging**.
 
-## Debugging Strategies
+## Strategies
 
-Regardless of why an error is happening, the important thing to remember is to stay calm and stay positive. There's a good chance the error is fixable! And there's a good chance you aren't the only one who has ever seen it before.
+Regardless of why an error is happening, the important thing to remember is to stay calm and stay positive. There's a good chance the error is fixable! And there's a good chance you aren't the only one who has ever seen it before. Here is a methodical approach you might try to get past it:
 
   1. Your first objective when encountering an error should be to **communicate** what is happening, and how it differs from your expectation about what should happen. Ways to help you communicate the issue include: writing down your observations, vocalizing your observations to yourself, discussing your observations with someone else, or preparing to write a question to post on an online chatroom or help forum.
   2. Once you have communicated the problem, your second objective is to **identify** its source and its cause. Use various debugging tools and techniques (see below) to find out which line of code is causing the problem, and why.
   3. Finally, once you have identified the source of the problem, your objective is to **fix** it. Try one strategy at a time, using scientific method to determine whether or not that approach worked before trying another approach.
 
-## Debugging Tools
+## Tools
 
 Certain tools available in MS Excel and the VBE window can be helpful to us during the debugging process.
 

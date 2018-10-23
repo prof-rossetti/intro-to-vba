@@ -1,6 +1,4 @@
-# VBA Language Overview
-
-## Errors
+# Handling Errors
 
 Reference: [`On Error` docs](https://docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/on-error-statement).
 

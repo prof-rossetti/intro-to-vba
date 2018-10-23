@@ -5,33 +5,34 @@
 
   1. [Getting Started](getting-started.md)
   2. [Macros](macros.md)
-  3. [Comments](comments.md)
-  4. [Message Boxes](message-boxes.md)
+  3. [Debugging](debugging.md)
+  4. [Comments](comments.md)
+  5. [Message Boxes](message-boxes.md)
 
 ## Module II
 
-  5. [Variables](variables.md)
-  6. [Datatypes](datatypes.md)
-  7. [Strings](datatypes/strings.md)
-  8. [Conditionals](conditionals.md)
+  6. [Variables](variables.md)
+  7. [Datatypes](datatypes.md)
+  8. [Strings](datatypes/strings.md)
+  9. [Conditionals](conditionals.md)
 
 ## Module III
 
-  9. [Sub-procedures](sub-procedures.md)
-  10. [Functions](functions.md)
-  11. [Modules](modules.md)
+  10. [Sub-procedures](sub-procedures.md)
+  11. [Functions](functions.md)
+  12. [Modules](modules.md)
 
 ## Module IV
 
-  12. [Loops](loops.md)
-  13. [Arrays](datatypes/arrays.md)
+  13. [Loops](loops.md)
+  14. [Arrays](datatypes/arrays.md)
 
 ## Module V
 
-  14. [Input Boxes](input-boxes.md)
-  15. [Errors](errors.md)
+  15. [Input Boxes](input-boxes.md)
+  16. [Handling Errors](errors.md)
 
 ## Module VI
 
-  16. [WinHTTP Services](win-http-services.md)
-  16. [Dictionaries](datatypes/dictionaries.md)
+  17. [WinHTTP Services](win-http-services.md)
+  18. [Dictionaries](datatypes/dictionaries.md)

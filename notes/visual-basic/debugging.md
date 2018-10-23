@@ -12,14 +12,6 @@ Regardless of why an error is happening, the important thing to remember is to s
   2. Once you have communicated the problem, your second objective is to **identify** its source and its cause. Use various debugging tools and techniques (see below) to find out which line of code is causing the problem, and why.
   3. Finally, once you have identified the source of the problem, your objective is to **fix** it. Try one strategy at a time, using scientific method to determine whether or not that approach worked before trying another approach.
 
-After trying to debug on your own, if you are still unsuccessful, its normal to ask for help. Here are the sources of help you might try, in order of priority:
-
-  1. Consult the professor's reference materials (this site).
-  2. Consult the official Microsoft documentation (although sometimes it can be confusing).
-  3. Ask the Internet, primarily using search engines like Google and programming forums like [Stack Overflow](https://stackoverflow.com/). Start your search terms with the words "MS Excel VBA" for more relevant hits.
-  4. Ask someone you know, like a classmate, friend, mentor, or the professor.
-  5. Take a break and revisit the problem later. Sometimes a walk or shower or good night's sleep will bring a fresh perspective.
-
 ## Debugging Tools
 
 Certain tools available in MS Excel and the VBE window can be helpful to us during the debugging process.
@@ -44,3 +36,13 @@ Reference this document on [Trace Code Execution](https://msdn.microsoft.com/en-
 
 Another powerful, but perhaps less commonly used, tool to see how your variables values change over time is
 [The Locals Window](https://msdn.microsoft.com/en-us/vba/language-reference-vba/articles/locals-window).
+
+## Getting Help
+
+After trying to debug on your own, if you are still unsuccessful, its normal to ask for help. Here are the sources of help you might try, in order of priority:
+
+  1. Consult the professor's reference materials (this site).
+  2. Consult the official Microsoft documentation (although sometimes it can be confusing).
+  3. Ask the Internet, primarily using search engines like Google and programming forums like [Stack Overflow](https://stackoverflow.com/). Start your search terms with the words "MS Excel VBA" for more relevant hits.
+  4. Ask someone you know, like a classmate, friend, mentor, or the professor.
+  5. Take a break and revisit the problem later. Sometimes a walk or shower or good night's sleep will bring a fresh perspective.
